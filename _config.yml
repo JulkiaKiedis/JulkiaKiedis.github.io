@@ -10,7 +10,7 @@ paginate_path:       "page:num"
 
 # Setup
 title:            'Julia Krämer'
-tagline:          'A Jekyll theme'
+tagline:          'Personal info'
 description:      'PhD candidate, Erasmus University Rotterdam'
 url:             
 baseurl:          /
