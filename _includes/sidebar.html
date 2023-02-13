@@ -13,21 +13,7 @@
       <img src="/Julia_Kraemer1.jpg" alt="An image" />
     </div>
 
-    <nav class="sidebar-nav">
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            
-          {% endif %}
-        {% endif %}
-      {% endfor %}
+    <nav class="image-container">
 
       <a href="https://twitter.com/julia_kraemer">
         <img src="{{ site.baseurl }}public/twitter.png" alt="twitter" >
