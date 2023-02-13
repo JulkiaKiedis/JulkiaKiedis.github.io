@@ -98,7 +98,7 @@ html {
 
 /* Three image containers (use 25% for four, and 50% for two, etc) */
 .column {
-  float: none;
+  float: left;
   width: 33.3%;
   padding: 5px;
 }
