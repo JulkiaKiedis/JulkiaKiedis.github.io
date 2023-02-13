@@ -100,7 +100,7 @@ html {
 .column {
   float: left;
   width: 33.3%;
-  padding: 5px;
+  padding: 0px;
 }
 
 /* Clear floats after image containers */
