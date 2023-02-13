@@ -15,9 +15,9 @@ description:      'Erasmus University Rotterdam'
 url:             
 baseurl:          /
 
-author:
+author:            'Julia K'
   name:           'Julia K'
-  url:            https://twitter.com/mdo
+  url:            https://twitter.com/julia_kraemer
 
 paginate:         5
 
