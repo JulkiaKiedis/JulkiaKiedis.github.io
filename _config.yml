@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Julia
 tagline:          'A Jekyll theme'
 description:      'Erasmus University Rotterdam'
-url:              http://hyde.getpoole.com
+url:              http://JulkiaKiedis.github.io/poole/
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           http://JulkiaKiedis.github.io/poole/
