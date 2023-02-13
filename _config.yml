@@ -11,7 +11,7 @@ paginate_path:       "page:num"
 # Setup
 title:            'Julia Kramer'
 tagline:          'A Jekyll theme'
-description:      'Erasmus University Rotterdam'
+description:      'PhD candidate, Erasmus University Rotterdam'
 url:             
 baseurl:          /
 
