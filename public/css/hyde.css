@@ -56,8 +56,8 @@ html {
 @font-face {
   font-family: 'EB Garamond';
   src: url('../fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype');
-  font-weight: italic;
-  font-style: normal;
+  font-weight: normal;
+  font-style: italic;
 }
 
 /*
