@@ -45,6 +45,20 @@ html {
   }
 }
 
+/* Define Orpheus Pro font */
+@font-face {
+  font-family: 'Orpheus Pro';
+  src: url('../fonts/OrpheusPro-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Orpheus Pro';
+  src: url('../fonts/OrpheusPro-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
 
 /*
  * Sidebar
@@ -79,7 +93,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Orpheus Pro', serif; /* Updated font-family */
   font-size: 46px;
 }
 
