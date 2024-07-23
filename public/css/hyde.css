@@ -45,20 +45,6 @@ html {
   }
 }
 
-/* Define Orpheus Pro font */
-@font-face {
-  font-family: 'Orpheus Pro';
-  src: url('../fonts/OrpheusPro-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Orpheus Pro';
-  src: url('../fonts/OrpheusPro-Bold.ttf') format('truetype');
-  font-weight: bold;
-  font-style: normal;
-}
 
 /*
  * Sidebar
@@ -90,10 +76,12 @@ html {
 }
 
 /* About section */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
+
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: 'Orpheus Pro', serif; /* Updated font-family */
+  font-family: 'Libre Baskerville', serif; /* Updated font-family */
   font-size: 46px;
 }
 
