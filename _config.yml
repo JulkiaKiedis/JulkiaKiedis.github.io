@@ -9,7 +9,7 @@ paginate:            5
 paginate_path:       "page:num"
 
 # Setup
-title:            'Julia Krämer'
+title:            'Julia Krämer, LLM'
 tagline:          'Personal info'
 description:      'PhD candidate, Erasmus University Rotterdam'
 url:             
