@@ -99,11 +99,17 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'EB Garamond', serif;
 }
 
+h1 {
+  font-size: 60px; /* Make h1 larger */
+  color: #75b5aa; /* Change color to #75b5aa */
+}
+
+
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
   font-family: 'EB Garamond', serif;
-  font-size: 46px;
+  font-size: 48px;
   font-weight: normal;
 }
 
