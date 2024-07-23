@@ -48,15 +48,15 @@ html {
 /* Define EB Garamond font */
 @font-face {
   font-family: 'EB Garamond';
-  src: url('../fonts/EB-Garamond-Regular.ttf') format('truetype');
+  src: url('../fonts/EBGaramond-VariableFont_wght.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'EB Garamond';
-  src: url('../fonts/EB-Garamond-Bold.ttf') format('truetype');
-  font-weight: bold;
+  src: url('../fonts/EBGaramond-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: italic;
   font-style: normal;
 }
 
