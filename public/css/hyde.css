@@ -76,12 +76,11 @@ html {
 }
 
 /* About section */
-@import url('http://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap');
 
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: 'Libre Baskerville', serif; /* Updated font-family */
+  font-family: 'EB Garamond', serif;
   font-size: 46px;
 }
 
