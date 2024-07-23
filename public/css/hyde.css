@@ -32,8 +32,10 @@
  */
 
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: 'EB Garamond', serif;
 }
+
+
 @media (min-width: 48em) {
   html {
     font-size: 16px;
